@@ -1,2 +1,2 @@
-# 1st_Byte_to_Gb
+# basic_js
 Created with CodeSandbox
